@@ -2,7 +2,7 @@
 
 ## Overview
 
-# AfriChat is a mobile app designed to showcase Africa's rich cultural heritage, historical landmarks, and tourism hotspots. Features include:
+# AfricaChat is a lightweight mobile AI chat app.
 
 - Interactive maps of heritage sites
 - Curated travel guides
